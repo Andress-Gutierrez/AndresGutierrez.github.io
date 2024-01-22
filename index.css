@@ -1,0 +1,38 @@
+body                                                                   
+{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ /* div 1 */
+#container                                                                                                        
+{
+    text-align: center;                                                     /* Texto dentro del div principal */  
+    background-color: aquamarine;                                         /* color del div */
+    width: 300px;                                                           /* Tamaño ancho */
+    height: 200px;                                                          /* Tamaño alto */
+    padding: 10px;                                                          /* Tamño padding */
+    border: 3px solid #333;                                               /* Tamaño borde del Div*/
+    margin: 0 auto;                                                         /* Tamaño margen div   --> Auto centra el div   */
+}
+.contaier h1                                                                /* h1 Encabezado del div 1 */
+{
+    color: #333;                                                          /* Color h1  */
+}
+
+
+
+/* div 2 */
+#container2                                                                
+{
+    background-color: blueviolet;
+}
+
+
+
+/* div 3 */
+#container3                                                                 
+{
+    background-color: rgb(43, 226, 141);
+}
